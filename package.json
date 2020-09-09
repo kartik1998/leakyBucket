@@ -1,6 +1,6 @@
 {
   "name": "leakybucket-rate-limiter",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Rate Limiter middleware which uses Leaky Bucket Algorithm",
   "main": "index.js",
   "scripts": {
