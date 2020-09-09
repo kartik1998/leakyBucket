@@ -1,0 +1,33 @@
+{
+  "name": "leakybucket",
+  "version": "1.0.0",
+  "description": "Rate Limiter middleware which uses Leaky Bucket Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartik1998/leakyBucket.git"
+  },
+  "keywords": [
+    "LeakyBucket",
+    "Leaky",
+    "Bucket",
+    "Rate",
+    "RateLimiter",
+    "Limit",
+    "ip",
+    "Auth",
+    "Middleware"
+  ],
+  "author": "Kartik Rawat",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/kartik1998/leakyBucket/issues"
+  },
+  "homepage": "https://github.com/kartik1998/leakyBucket#readme",
+  "dependencies": {
+    "async": "^3.2.0"
+  }
+}
